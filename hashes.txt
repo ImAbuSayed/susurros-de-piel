@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros de piel
+
+This log tracks the cryptographic history and versioning for the song **Susurros de piel** (susurros-de-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:00:14.428103 | `v1` | `0ebce51860d274607929f9deb7138e39e61bcb22dd55b58dc8c19f3251dac2bd` | `7f8c82a05e6544182d0f5cbd3edb23394584e5d21a80303a29a1ea71b77083d5` | `2026-06-17_susurros-de-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

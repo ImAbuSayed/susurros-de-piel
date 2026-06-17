@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Susurros de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-piel/) |
+| **Get License** | [Official Music Licensing for Susurros de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0ebce51860d274607929f9deb7138e39e61bcb22dd55b58dc8c19f3251dac2bd` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
