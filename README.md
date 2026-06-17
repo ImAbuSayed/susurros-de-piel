@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Susurros de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-piel/) |
+| **Get License** | [Commercial Licensing for Susurros de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, dime si esta noche te escapas conmigo
+> Tú y yo en el coche, la luna de testigo
+> Ese aroma en tu piel me tiene adicto al fuego
+> Un susurro al oído y comenzamos el juego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
